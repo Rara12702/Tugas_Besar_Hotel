@@ -3,7 +3,7 @@
 $hostname = "localhost";
 $username = "root";
 $password = "";
-$db_name = "tugas_besar_hotel";
+$db_name = "tubesweb";
 $base_url = "http://localhost/Tugas_Besar_Hotel/";
 
 $conn = mysqli_connect($hostname, $username, $password, $db_name);
